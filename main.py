@@ -1,3 +1,3 @@
-"abcd".decode("rot13")
+#"abcd".decode("rot13")
 
-print "hello world!"
+print "test"
