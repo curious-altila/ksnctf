@@ -1,3 +1,3 @@
-#rot13#
+#ksnctf#
 
-rot13 program for ksnctf
+program for ksnctf @sudo_altila
